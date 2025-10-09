@@ -14,5 +14,6 @@ Enables dynamic market trend exploration, empowering strategic investment decisi
 
 ## Screenshots
 
-**Dashboard :**  
+**Dashboard :** 
+
 ![Dashboard Overview](screenshots/dashboard1.png)
