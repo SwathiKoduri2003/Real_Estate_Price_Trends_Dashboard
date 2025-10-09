@@ -1,7 +1,6 @@
 # Real Estate Price Trends Dashboard
 
-An interactive Tableau dashboard that visualizes property pricing, revenue patterns, and customer preferences.  
-Enables dynamic market trend exploration, empowering strategic investment decisions.
+An interactive Tableau dashboard that visualizes property pricing, revenue patterns, and customer preferences. Enables dynamic market trend exploration, empowering strategic investment decisions.
 
 ## Built With
 - Tableau  
