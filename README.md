@@ -14,4 +14,5 @@ An interactive Tableau dashboard that visualizes property pricing, revenue patte
 ## Screenshots
 
 **Dashboard :** 
+
 ![Dashboard Overview](screenshots/dashboard_tableau.png)
