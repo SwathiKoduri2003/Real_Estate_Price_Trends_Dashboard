@@ -15,4 +15,4 @@ An interactive Tableau dashboard that visualizes property pricing, revenue patte
 
 **Dashboard :** 
 
-![Dashboard Overview](Real_Estate_Price_Trends_Dashboard/screenshots/dashboard1.png)
+![Dashboard Overview](screenshots/dashboard1.png)
